@@ -1,0 +1,7 @@
+﻿  test.cpp
+c:\users\ryan\documents\visual studio 2015\projects\opengl assignment\opengl assignment\test.cpp(93): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ryan\documents\visual studio 2015\projects\opengl assignment\opengl assignment\test.cpp(282): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ryan\documents\visual studio 2015\projects\opengl assignment\opengl assignment\test.cpp(361): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\ryan\documents\visual studio 2015\projects\opengl assignment\opengl assignment\test.cpp(361): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  opengl assignment.vcxproj -> C:\Users\Ryan\Documents\Visual Studio 2015\Projects\opengl assignment\Debug\opengl assignment.exe
+  opengl assignment.vcxproj -> C:\Users\Ryan\Documents\Visual Studio 2015\Projects\opengl assignment\Debug\opengl assignment.pdb (Partial PDB)
